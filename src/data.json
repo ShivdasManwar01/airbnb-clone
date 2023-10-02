@@ -1,0 +1,155 @@
+{
+    "destinations":[
+        {
+            "id":1,
+            "Address":"Nagpur, India",
+            "img":"https://a0.muscache.com/im/pictures/2d07972b-c829-456e-ba5d-f5aab0133736.jpg?im_w=720",
+            "distance":"150 km",
+            "price":"₹ 15000",
+            "time":"night",
+            "duration":"5-6 Oct"
+
+        }
+        ,
+        {
+            "id":2,
+            "Address":"Lonavala, India",
+            "img":"https://a0.muscache.com/im/pictures/miso/Hosting-700005434591922350/original/a1ec613d-4b7a-4705-9825-35a488f1cdd8.jpeg?im_w=720",
+            "distance":"600 km",
+            "price":"₹ 12000",
+            "time":"night",
+            "duration":"5-8 Oct"
+            
+        },
+        {
+            "id":3,
+            "Address":"Lonavala, India",
+            "img":"https://a0.muscache.com/im/pictures/2b535348-fa20-4532-8e66-17fe78a04642.jpg?im_w=720",
+            "distance":"600 km",
+            "price":"₹ 12000",
+            "time":"night",
+            "duration":"5-8 Oct"
+        },
+        {
+            "id":4,
+            "Address":"Wayanad, India",
+            "img":"https://a0.muscache.com/im/pictures/miso/Hosting-842561061009527003/original/087935c5-a15d-4d4e-9861-e7580c0b10f3.jpeg?im_w=720",
+            "distance":"400km",
+            "price":"₹ 12000",
+            "time":"night",
+            "duration":"5-12 Oct"
+        },
+
+        {
+            "id":5,
+            "Address":"Apati, India",
+            "img":"https://a0.muscache.com/im/pictures/2f0c9e3b-b217-4b9c-8d4e-634bb4f21cc5.jpg?im_w=720",
+            "distance":"140 km",
+            "price":"₹ 22000",
+            "time":"night",
+            "duration":"5-6 Oct"
+        },
+        {
+            "id":6,
+            "Address":"Karla, India",
+            "img":"https://a0.muscache.com/im/pictures/7fbe7e42-38ad-4e73-b1eb-4ff872a68e74.jpg?im_w=720",
+            "distance":"240 km",
+            "price":"₹ 12000",
+            "time":"night",
+            "duration":"5-8 Oct"
+        },
+        {
+            "id":7,
+            "Address":"Kamshet, India",
+            "img":"https://a0.muscache.com/im/pictures/aa06283f-a43f-45ec-940b-28ff1cf0b785.jpg?im_w=720",
+            "distance":"70 km",
+            "price":"₹ 12000",
+            "time":"night",
+            "duration":"5-8 Oct" 
+        },
+        {
+            "id":8,
+            "Address":"Kamshet, India",
+            "img":"https://a0.muscache.com/im/pictures/72df3de9-1b1b-4e17-bc54-d06394033583.jpg?im_w=720",
+            "distance":"70 km",
+            "price":"₹ 12000",
+            "time":"night",
+            "duration":"5-8 Oct" 
+        },
+        {
+            "id":9,
+            "Address":"Wayanad, India",
+            "img":"https://a0.muscache.com/im/pictures/miso/Hosting-842561061009527003/original/087935c5-a15d-4d4e-9861-e7580c0b10f3.jpeg?im_w=720",
+            "distance":"400km",
+            "price":"₹ 12000",
+            "time":"night",
+            "duration":"5-12 Oct"
+        },
+        {
+            "id":10,
+            "Address":"Surat, India",
+            "img":"https://a0.muscache.com/im/pictures/457c89eb-f39a-44f0-8168-55da90b6f126.jpg?im_w=720",
+            "distance":"400km",
+            "price":"₹ 2000",
+            "time":"night",
+            "duration":"5-6 Oct"
+        },
+        {
+            "id":11,
+            "Address":"Chikhaldhara, India",
+            "img":"https://a0.muscache.com/im/pictures/999032d1-87ff-4e46-9a72-e5d06d093830.jpg?im_w=720",
+            "distance":"400km",
+            "price":"₹ 2000",
+            "time":"night",
+            "duration":"5-6 Oct"
+        },
+        {
+            "id":12,
+            "Address":"Chikhaldhara, India",
+            "img":"https://a0.muscache.com/im/pictures/miso/Hosting-22158044/original/62b04e2d-4bb0-426a-8cb9-144efcdfb307.jpeg?im_w=720",
+            "distance":"400km",
+            "price":"₹ 2000",
+            "time":"night",
+            "duration":"5-6 Oct"
+        },
+        {
+            "id":13,
+            "Address":"Chikhaldhara, India",
+            "img":"https://a0.muscache.com/im/pictures/miso/Hosting-643884327519485083/original/c6b4a4e1-624f-4ad8-b89f-da7164ef6c13.jpeg?im_w=720",
+            "distance":"400km",
+            "price":"₹ 2000",
+            "time":"night",
+            "duration":"5-6 Oct"
+        },
+        {
+            "id":14,
+            "Address":"Vadodara, India",
+            "img":"https://a0.muscache.com/im/pictures/hosting/Hosting-957063574596179611/original/6ef62c0e-181c-4dd6-8fc1-9589bab46456.jpeg?im_w=720",
+            "distance":"900km",
+            "price":"₹ 10000",
+            "time":"night",
+            "duration":"5-11 Oct"
+        },
+        {
+            "id":15,
+            "Address":"Lonavala, India",
+            "img":"https://a0.muscache.com/im/pictures/prohost-api/Hosting-705597238574215483/original/63e1a52d-32d2-4405-9c3b-75d1adf30d61.jpeg?im_w=720",
+            "distance":"900km",
+            "price":"₹ 11000",
+            "time":"night",
+            "duration":"9-11 Oct"
+        },
+        {
+            "id":16,
+            "Address":"Mohali, India",
+            "img":"https://a0.muscache.com/im/pictures/d2428ef6-2403-4481-9498-72155daa3f86.jpg?im_w=720",
+            "distance":"600km",
+            "price":"₹ 11000",
+            "time":"night",
+            "duration":"10-15 Oct"
+        }
+
+
+
+    ]
+}

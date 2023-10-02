@@ -1,29 +1,53 @@
 import React from 'react';
-function Card(){
+import { useState } from 'react';
+
+
+
+
+
+function Card({location}){
+   // const {Address,img,distance,price,time, duration}=location;
+    const [pic, setPic]=useState("https://clipart-library.com/new_gallery/929031_white-heart-outline-png.png")
+    function changePic(){
+        if(pic==="https://clipart-library.com/new_gallery/929031_white-heart-outline-png.png"){
+            setPic("https://freepngimg.com/thumb/heart/36734-5-pink-heart-transparent-background.png")
+        }
+        else{
+            setPic("https://clipart-library.com/new_gallery/929031_white-heart-outline-png.png")
+        }
+    }
     return(
         <>
             <div className="card">
                 <div className="image">
-                    <img src="https://a0.muscache.com/im/pictures/d8d629d7-9307-4b24-a8ae-b01d95e36124.jpg?im_w=720" alt="pic" />
+                    <img src={location.img} alt="pic" />
+                    <img onClick={changePic} className="icon" src={pic} alt='heart'/>
+                    {/* https://freepngimg.com/thumb/heart/36734-5-pink-heart-transparent-background.png */}
                 </div>
                 <div className="place">
-                    <p>Nashik, Pune</p>
-                    <p></p>
+                    <p>{location.Address}</p>
+                    <div className="placerating">
+                    <p>&#9733;</p>
+                    <p>4.3</p>
+                    </div>
+                    
                 </div>
                 <div className="info">
-                    <p>150 kilometers away</p>
-                    <p>5-10 Oct</p>
+                    <p>{location.distance}</p>
+                    <p>{location.duration}</p>
 
                 </div>
                 <div className="price">
-                    <p>₹ 15000</p>
-                    <p>night</p>
+                    <p id='price'>{location.price}</p>
+                    <p>{location.time}</p>
 
                 </div>
             </div>
+            
         </>
     )
 }
+
 
 export default Card;
 
